@@ -100,4 +100,4 @@ data:
         directory: /var/loki/chunks
     table_manager:
       retention_deletes_enabled: true
-      retention_period: 744h
+      retention_period: 74h
